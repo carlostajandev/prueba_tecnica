@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-09-15T14:56:16.6871554Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-09-16T03:11:07.0153889Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ae31fdb2-b4db-4f90-9e3f-5970b1ef2675"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TaskManager"
+    }
+  }
+}

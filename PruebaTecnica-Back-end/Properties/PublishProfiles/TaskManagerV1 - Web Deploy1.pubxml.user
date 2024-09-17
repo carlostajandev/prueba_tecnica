@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-09-16T10:26:40.9129981Z||;False|2024-09-16T05:25:32.9088713-05:00||;True|2024-09-15T18:06:16.7558821-05:00||;False|2024-09-15T18:05:37.0548762-05:00||;True|2024-09-15T17:42:56.6763781-05:00||;False|2024-09-15T17:41:11.7793201-05:00||;False|2024-09-15T17:40:02.6868284-05:00||;True|2024-09-15T17:12:05.9583288-05:00||;False|2024-09-15T17:10:44.1189984-05:00||;False|2024-09-15T17:09:21.1286171-05:00||;True|2024-09-15T15:59:29.6120084-05:00||;False|2024-09-15T15:54:39.3920272-05:00||;False|2024-09-15T15:52:21.1768130-05:00||;True|2024-09-15T11:18:36.3051015-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=pruebadev1.database.windows.net,1433;Initial Catalog=TaskManagementDB;User ID=Pruebadev;Password=carlos1505#" />
+    <AzureDBConnectionStrings Include="REDACTED" />
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CadenaSQL">
+      <Value>Data Source=pruebadev1.database.windows.net,1433%3bInitial Catalog=TaskManagementDB%3bUser ID=pruebadev%3bPassword=carlos1505#</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

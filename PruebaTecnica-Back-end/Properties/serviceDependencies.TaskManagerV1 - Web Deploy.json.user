@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-09-15T14:53:14.4840767Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-09-15T14:54:38.7364403Z"
+    }
+  },
+  "parameters": {
+    "TaskManagerV1.resourceGroupLocation": {
+      "Name": "TaskManagerV1.resourceGroupLocation",
+      "Type": null,
+      "Value": "mexicocentral"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ae31fdb2-b4db-4f90-9e3f-5970b1ef2675"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "mexicocentral"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TaskManager"
+    },
+    "TaskManagerV1.resourceName": {
+      "Name": "TaskManagerV1.resourceName",
+      "Type": null,
+      "Value": "TaskManagerV1"
+    },
+    "apis1.resourceGroupLocation": {
+      "Name": "apis1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "mexicocentral"
+    },
+    "TaskManagerV1.resourceGroupName": {
+      "Name": "TaskManagerV1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TaskManager"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TaskManager"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ae31fdb2-b4db-4f90-9e3f-5970b1ef2675"
+    },
+    "TaskManagerV1.subscriptionId": {
+      "Name": "TaskManagerV1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ae31fdb2-b4db-4f90-9e3f-5970b1ef2675"
+    }
+  }
+}

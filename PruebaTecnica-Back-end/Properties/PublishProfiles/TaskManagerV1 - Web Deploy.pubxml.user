@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-09-15T16:04:53.2731279Z||;False|2024-09-15T10:54:07.4823786-05:00||;False|2024-09-15T10:50:56.9888458-05:00||;False|2024-09-15T10:19:25.8457007-05:00||;True|2024-09-15T10:12:56.8618312-05:00||;</History>
+    <LastFailureDetails />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeA1pA6QdO0CSOaFoEh61MAAAAAACAAAAAAAQZgAAAAEAACAAAACsAZJM4UP3DocCeh2nYy+3imtSCdqvXjHfd7DFrJTnxgAAAAAOgAAAAAIAACAAAAAq67wRyy2IQIhp+kn4zQkF5H++XRu874Q8wq4CtXo4V4AAAABMCmdWfApveWE3ooKhFuLJpO2++CaGMWGuV2MC2peoYH5m0IBdi9f2jqWONbnyb+ImcO2O3Gysl1V+/V1Nb7NhL5d1XI/V28kSUOLb+JJ1ImCRrIN001mwAhCQlV++vYybci9tDDALPj98iD3uPOTgySj4TNs5OmSljS3Usu8/WUAAAAD1BP3Yr2mgoKx/UXIWCMRnt3eULseuMsAjRbXHWCudovFihHnCsyJ7KiSYUppcni5KokSlV0CvYoV5BGGTvY5S</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=pruebadev1.database.windows.net,1433;Initial Catalog=TaskManagementDB;User ID=Pruebadev;Password=carlos1505#" />
+    <AzureDBConnectionStrings Include="REDACTED" />
+  </ItemGroup>
+</Project>
